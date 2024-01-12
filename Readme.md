@@ -9,16 +9,18 @@
 <br></br>
 
 ## Project Description:
-- In this Project, a Netflix Clone page was developed, a Front-End project, using HTML, CSS, Java Script and Jquery. On the page
-we found a more advanced design, very objective, and very functional for its purpose, containing a catalog of static films and series,
-and an introductory video, making the page dynamic at this stage.
+- In this Project, an E-commerce Virtual Store was developed, as well as its own exclusive Theme, using HTML, CSS, JavaScript, TypeScript, React.js, PHP and closing with WordPress. On the Store Website page, we find a Website with a beautiful and responsive design, having Front-End and Back-End properties, making it very dynamic and ready for use by companies and customers; A very functional and practical to use E-commerce website.
+  
+- Pojeto has the functionality of being an effective E-Commerce Site, with its own hand-developed theme, so that it is a virtual store for use by various companies, and for those looking to sell virtually, very practical and easy to use. It contains several Pages for a good Virtual sale, from a personalized Home, a cart, a store, Personalized Payments, and an Exclusive Page for your customer, to be able to make an excellent virtual sale.
 
-- The project has the functionality of having a catalog of static films and series , having an introductory video showing a series , its name ,
-and a brief dynamic description, with a design very close to netflix itself, with a very functional and interactive screen, even though most of it is static, for
-be a Front-End project only, but having its dynamics in the intro video of the page.
-
-- Below we have a small instructional video, where we show an example of how the Netflix Clone page works.
-
+- Below we have a short instructional video, where we show an example of how the Site works and its own Theme.
+​
+​
+Enviar feedback
+Painéis laterais
+Histórico
+Salvas
+Contribuir
 <br></br>
 
 Video:
