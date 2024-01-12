@@ -1,0 +1,9 @@
+#customize-theme-controls .control-section-orionflex_button .accordion-section-title {
+	background-color: #17bebb  !important;
+	color:#fff;
+}
+
+#customize-theme-controls .control-section-orionflex_button .accordion-section-title a {
+	color: #000;
+	text-decoration: none;
+}

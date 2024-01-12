@@ -1,0 +1,12 @@
+2023-12-19T00:42:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\ale-woocomerce\wordpress\wp-content\plugins\woocommerce\templates\content-product.php, na linha 20
+
+2023-12-19T00:51:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\ale-woocomerce\wordpress\wp-content\plugins\woocommerce\templates\content-product.php, na linha 20
+
+2023-12-19T00:52:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\ale-woocomerce\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php, na linha 203
+
+2023-12-19T00:54:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\ale-woocomerce\wordpress\wp-content\plugins\woocommerce\templates\content-product.php, na linha 20
+
+2023-12-19T00:55:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\ale-woocomerce\wordpress\wp-includes\class-wp-object-cache.php, na linha 180
+
+2023-12-19T00:59:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\ale-woocomerce\wordpress\wp-content\plugins\woocommerce\templates\content-product.php, na linha 20
+
