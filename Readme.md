@@ -1,4 +1,4 @@
-<h1 align="center"> AleWeb Tema - Site PHP/WordPress</h1>
+<h1 align="center"> AleWeb Commerce / Loja Virtual</h1>
 
 ### Project Home Page:
 
