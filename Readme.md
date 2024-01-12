@@ -32,9 +32,11 @@ https://github.com/alexandre-souza10/AleWebCommerce.github.io/assets/74196527/a5
 ## Languages ​​and Tools used:
 - HTML
 - CSS
-- Java Script
+- SCSS
+- JavaScript
 - React.js
 - JQuery.js
+- TypeScript
 - PHP
 - WordPress
 - Banco de Dados My Sql
