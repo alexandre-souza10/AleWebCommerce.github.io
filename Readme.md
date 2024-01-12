@@ -23,9 +23,7 @@ be a Front-End project only, but having its dynamics in the intro video of the p
 
 Video:
 
-
-https://github.com/alexandre-souza10/AleWebCommerce.github.io/assets/74196527/a581c7ae-2421-4527-a1b0-1baca4d7a41f
-
+https://github.com/alexandre-souza10/AleWebCommerce.github.io/assets/74196527/6e119c79-aa78-400c-8643-a877c330b3b6
 
 <br></br>
 
