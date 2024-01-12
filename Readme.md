@@ -13,14 +13,8 @@
   
 - Pojeto has the functionality of being an effective E-Commerce Site, with its own hand-developed theme, so that it is a virtual store for use by various companies, and for those looking to sell virtually, very practical and easy to use. It contains several Pages for a good Virtual sale, from a personalized Home, a cart, a store, Personalized Payments, and an Exclusive Page for your customer, to be able to make an excellent virtual sale.
 
-- Below we have a short instructional video, where we show an example of how the Site works and its own Theme.
+- Below we have a short instructional video, where we show an example of how the WebSite E-commerce works.
 ​
-​
-Enviar feedback
-Painéis laterais
-Histórico
-Salvas
-Contribuir
 <br></br>
 
 Video:
